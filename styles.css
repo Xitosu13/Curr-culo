@@ -1,0 +1,87 @@
+
+
+h1, h2, h3{
+    text-transform: uppercase;
+}
+
+#header {
+    background-color: rgb(72, 97, 236);
+    margin-top: 4%;
+    margin-bottom: 4%;
+    font-family: "Hubballi", sans-serif;
+    height: 70px;
+}
+
+#nameAndTitle{
+    background-color: white;
+    width: 500px;
+    margin: auto ;
+    padding-top: 10;
+    text-align: center;
+    height: 60px;
+}
+
+#nameAndTitle h1, h2{
+    margin: 0;
+}
+
+#contact{
+    list-style-type: none;
+}
+
+#contact i{
+    width: 30px;
+    color: rgb(72, 97, 236);
+}
+
+#links{
+    list-style-type: none;
+}
+
+#container {
+    grid-template-columns: 30% auto;
+    display: grid;
+    grid-column-gap: 40px;
+}
+
+#sidebar, content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+}
+
+#content {
+    margin-right: 1000px;
+}
+
+.card h3 {
+    font-family: "Hubballi", sans-serif;
+    margin-left: 30px;
+}
+
+.card {
+    font-family: 'Montserrat';
+    border: 1px solid rgb(72, 97, 236);
+    border-radius: 15px ;
+    padding: 20px;
+    background-color: rgba(72, 97, 236, 0.205);
+}
+
+p {
+    margin-left: 40px;
+}
+
+#procurando {
+    margin-top: 40px;
+}
+
+#linke {
+    margin-left: 50px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
