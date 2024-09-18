@@ -1,4 +1,4 @@
 # Currículo
-Página currpiculo composta com linguágens que domino: 
+Página curriculo composta com linguágens que domino: 
 https://curriculoramoneckhardt.netlify.app/
 
